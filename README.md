@@ -1,4 +1,4 @@
-This is the Evaluation Task 3 for the **Google Summer Of Code 2021** Project Called **DIMENSIONALITY REDUCTION FOR STUDYING DIFFUSE CIRCUMGALACTIC MEDIUM** of The Organization Called **Machine Learning for Science (ML4SCI) Umbrella Organization**.
+This is the Evaluation Tasks for the **Google Summer Of Code 2021** Project Called **DIMENSIONALITY REDUCTION FOR STUDYING DIFFUSE CIRCUMGALACTIC MEDIUM** of The Organization Called **Machine Learning for Science (ML4SCI) Umbrella Organization**.
 
 
 I was given a dataset that  consists of 6 million labeled samples of two categories (classes) produced with Monte Carlo simulations.
